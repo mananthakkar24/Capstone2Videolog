@@ -43,15 +43,3 @@ are HTTP **POST** or **GET** requests to the localhost.
 > /update/<ELEMENT_ID>
 
 updates the element with an HTTP **POST** request
-
-gets updates of the element with an HTTP **GET** request, after an update returns with OK (200)
- 
-**DELETE**
-> /delete/<ELEMENT_ID>
-
-HTTP **GET** request sent to the above path will delete the element specified with ELEMENT_ID
-
-## Contributing
-
-
-## License
