@@ -1,9 +1,4 @@
 
-An opinionated, but minimal approach to higher maintainability with Flask.
-
-[Website](https://palletsprojects.com/p/flask/)
-
-## Installation
 
 clone this repository
 ```
