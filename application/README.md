@@ -1,12 +1,6 @@
 
 
-clone this repository
-```
-[In]: git clone git@github.com:namitdoshi/flask-basic-CRUD.git
-```
-install dependencies:
-```
-[In]: pip install flask
+
 [In]: pip install flask_sqlalchemy
 
 ```
