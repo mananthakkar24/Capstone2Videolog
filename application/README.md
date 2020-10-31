@@ -1,12 +1,4 @@
 
-
-
-[In]: pip install flask_sqlalchemy
-
-```
-
-## Use
-
 ### Run the application
 move to app.py directory
 ```
